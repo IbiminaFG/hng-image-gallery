@@ -2,7 +2,7 @@
 
 My Image Gallery is a web application that allows users to manage and organize their image collections. It provides features for sorting and searching for images based on tags.
 
-![App Screenshot](screenshot.png)
+![App Screenshot](./src/images/screenshot.png)
 
 ## Table of Contents
 
